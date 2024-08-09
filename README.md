@@ -26,7 +26,7 @@ yarn add github-oauth-library
 Here's a simple example to get you started with github-auth-library:
 
 ```typescript
-import { OAuth2Client, Credentials, generateRandomState } from 'github-auth-library';
+import { OAuth2Client, Credentials, generateRandomState } from 'github-oauth-library';
 
 const client = new OAuth2Client(
   'YOUR_CLIENT_ID',
