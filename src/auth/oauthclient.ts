@@ -62,4 +62,4 @@ class OAuth2Client {
   }
 }
 
-export default OAuth2Client;
+export { OAuth2Client };

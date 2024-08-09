@@ -1,5 +1,5 @@
 class Credentials {
-    
+
   constructor(
     public accessToken: string,
     public tokenType: string,
@@ -19,4 +19,4 @@ class Credentials {
   }
 }
 
-export default Credentials;
+export { Credentials };
