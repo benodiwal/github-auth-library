@@ -1,6 +1,6 @@
-# github-auth-library
+# github-oauth-library
 
-github-auth-library is a sleek, type-safe TypeScript library for handling GitHub OAuth authentication in your Node.js applications. Simplify your GitHub integration with ease!
+github-oauth-library is a sleek, type-safe TypeScript library for handling GitHub OAuth authentication in your Node.js applications. Simplify your GitHub integration with ease!
 
 ## Features 🌟
 
@@ -14,12 +14,12 @@ github-auth-library is a sleek, type-safe TypeScript library for handling GitHub
 
 - Using npm
 ```bash
-npm install github-auth-library
+npm install github-oauth-library
 ```
 
 - Using yarn
 ```bash
-yarn add github-auth-library
+yarn add github-oauth-library
 ```
 
 ## Quick Start 🚀
@@ -66,4 +66,4 @@ We welcome contributions
 - Error handling and retries
 
 ## License 📄
-github-auth-library is MIT licensed. See the [LICENSE](LICENSE) file for details.
+github-oauth-library is MIT licensed. See the [LICENSE](LICENSE) file for details.

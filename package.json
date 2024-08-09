@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "github-auth-library",
+  "name": "github-oauth-library",
   "author": "benodiwal <sachinbeniwal0101@gmail.com>",
   "module": "dist/github-auth-library.esm.js",
   "size-limit": [
